@@ -1,0 +1,21 @@
+Nazione,Abitanti,KmQuadrati,RedditoProcapite,Lingua,Capitale,PIL_Totale_Mld_USD,Anno_Fondazione,Continente,Valuta
+Italia,60317000,301340,35551,Italiano,Roma,2009000,1861,Europa,Euro
+Germania,83200000,357022,48264,Tedesco,Berlino,4260000,1871,Europa,Euro
+Francia,67750000,643801,43658,Francese,Parigi,2937000,843,Europa,Euro
+Spagna,47350000,505370,32710,Spagnolo,Madrid,1427000,1492,Europa,Euro
+Regno Unito,67220000,243610,46510,Inglese,Londra,3376000,927,Europa,Sterlina
+Polonia,38000000,312696,17840,Polacco,Varsavia,674000,1918,Europa,Zloty
+Grecia,10720000,131957,20324,Greco,Atene,214000,-800,Europa,Euro
+Portogallo,10300000,92212,23408,Portoghese,Lisbona,252000,1139,Europa,Euro
+Olanda,17530000,41543,57101,Olandese,Amsterdam,1012000,1648,Europa,Euro
+Belgio,11590000,30528,51934,Olandese/Francese,Bruxelles,599000,1830,Europa,Euro
+Brasile,214300000,8515770,8717,Portoghese,Brasilia,1839000,1822,America,Real
+Argentina,45810000,2780400,9254,Spagnolo,Buenos Aires,443000,1816,America,Peso
+Messico,128900000,1964375,10057,Spagnolo,Città del Messico,1268000,1810,America,Peso
+Canada,38250000,9984670,49031,Inglese/Francese,Ottawa,2139000,1867,America,Dollaro_Canadese
+Giappone,125360000,377915,40193,Giapponese,Tokyo,4271000,660,Asia,Yen
+Cina,1412360000,9596961,12556,Cinese,Pechino,17734000,-221,Asia,Yuan
+India,1428630000,3287263,2256,Hindi,Nuova Delhi,3732000,-1500,Asia,Rupia
+Corea_del_Sud,51740000,100210,31632,Coreano,Seul,1665000,1948,Asia,Won
+Australia,26180000,7741220,59934,Inglese,Canberra,1672000,1901,Oceania,Dollaro_Australiano
+Sudafrica,59310000,1221037,6994,Inglese/Afrikaans,Città_del_Capo,419000,1910,Africa,Rand
